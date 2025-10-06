@@ -4,5 +4,5 @@
 
 > [!IMPORTANT]
 > Link do materiałów z ćwiczeń:\
-> https://moodle.uwm.edu.pl/ (strona jest wyłączona - później dodać bardziej precyzyjny link)\
+> https://moodle.uwm.edu.pl/my/courses.php\
 > **Trzeba wstawiać sprawozdania!!!**
