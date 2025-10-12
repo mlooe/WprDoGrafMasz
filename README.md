@@ -5,4 +5,4 @@
 > [!IMPORTANT]
 > Link do materiałów z ćwiczeń:\
 > https://moodle.uwm.edu.pl/my/courses.php \
-> **Trzeba wstawiać sprawozdania!!!**
+> **Trzeba robić testy na moodle (do niedzieli)!!!**
